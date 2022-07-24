@@ -1,8 +1,8 @@
 {
     "chain_name": "lumenx",
     "coingecko": "",
-    "api": "http://node2.lumenex.io:1317",
-    "rpc": ["http://node2.lumenex.io:26657"],
+    "api": "https://api.helios-1.lumenex.io",
+    "rpc": ["https://rpc.helios-1.lumenex.io:443"],
     "snapshot_provider": "",
     "sdk_version": "0.45.3",
     "coin_type": "118",
@@ -10,9 +10,9 @@
     "addr_prefix": "lumen",
     "logo": "/logos/lumenx_logo.png",
     "assets": [{
-        "base": "lumen",
+        "base": "ulumen",
         "symbol": "LUMEN",
-        "exponent": "0",
+        "exponent": "6",
         "coingecko_id": "lumenx",
         "logo": "/logos/lumenx_logo.png"
     }]
