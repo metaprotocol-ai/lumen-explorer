@@ -1,5 +1,3 @@
-<div align="center">
-
 <h1>Lumen Explorer</h1>
 
 # Installation:
